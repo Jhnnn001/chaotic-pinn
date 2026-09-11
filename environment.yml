@@ -1,0 +1,10 @@
+name: chaotic-pinn
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pytorch
+  - matplotlib
